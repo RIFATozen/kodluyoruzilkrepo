@@ -2,7 +2,7 @@
 
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/) React Native Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](merhaba.png)
+![github](2020-10-01 20_36_36-Window.png)
 
 ## Installation 
 
